@@ -1,4 +1,4 @@
-baseurl = "http://whoishou.com"
+baseurl = "https://heuristic-mcnulty-f865bf.netlify.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
