@@ -1,44 +1,30 @@
 baseurl = "https://heuristic-mcnulty-f865bf.netlify.com/"
 languageCode = "en-us"
-theme = "hello-friend"
 paginate = 5
-
-
+theme = "hello-friend"
+[languages.en]
+copyright = ""
+keywords = ""
+menuMore = "Show more"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+subtitle = "Subtitle"
+title = "WhoisHou"
+writtenBy = "Written by"
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+[[languages.en.menu.main]]
+identifier = "showcase"
+name = "Showcase"
+url = "/showcase"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "WhoisHou"
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # "light" or "dark"
-  defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
-
-[languages]
-  [languages.en]
-    title = "WhoisHou"
-    subtitle = "Subtitle"
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-
-    [languages.en.params.logo]
-      logoText = "WhoisHou"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+contentTypeName = "posts"
+defaultTheme = "dark"
+showMenuItems = 2
