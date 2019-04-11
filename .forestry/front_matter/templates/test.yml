@@ -1,7 +1,6 @@
 ---
 label: Test
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: test_text_field
