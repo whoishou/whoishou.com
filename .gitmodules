@@ -1,6 +1,0 @@
-[submodule "LeaveIt"]
-	path = LeaveIt
-	url = https://github.com/liuzc/LeaveIt.git
-[submodule "themes/KeepIt"]
-	path = themes/KeepIt
-	url = https://github.com/Fastbyte01/KeepIt.git
