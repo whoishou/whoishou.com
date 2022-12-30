@@ -1,7 +1,7 @@
 baseURL = "whoishou.com"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "loveit"
+theme = "LoveIt"
 
 # website title
 title = "who is hou"
