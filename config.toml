@@ -1,4 +1,4 @@
-baseURL = "precious-stroopwafel-dd011a.netlify.app/"
+baseURL = "whoishou.com"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
