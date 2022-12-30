@@ -1,7 +1,7 @@
 ---
 title: "Open Water Diving Certification"
 date: 2022-03-01T10:08:15+02:00
-draft: false
+draft: true
 categories: [diving]
 ---
 
