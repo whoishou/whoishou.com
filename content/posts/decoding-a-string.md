@@ -56,7 +56,7 @@ Hmm… there must be a way to identify that this is a zip file without guessing 
 
 Right! I did some research on how you would be able to identify different file types and came across a Wikipedia article about [file signatures](https://en.wikipedia.org/wiki/List_of_file_signatures) (also referred to as [magic numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)))
 
-File formats when viewed as text are meaningless (most of the time), but on some occasions, the file signature has recognisable text which would allow you to discern what the file format is. The string starts with PK. PK as it turns out refers to Phil Katz, the developer of the ZIP file format.
+File formats when viewed as text are meaningless (most of the time), but on some occasions, the file signature has recognisable text which would allow you to discern what the file format is. The string starts with PK. PK refers to Phil Katz, the developer of the ZIP file format.
 PK can also refer to other file formats built on the ZIP format such as docx, jar and apk.
 
 So I saved the string as a ZIP file, opened the archive and lo and behold there lied the whatsinside.txt text file.
@@ -84,12 +84,12 @@ Go figure.. I should have just guessed that to begin with..
 
 I opened the text file and lo behold the mystery was unveiled.
 
-![](/images/whatsinside.png)
+![whats inside](https://whoishou-media.s3.amazonaws.com/whats_inside.png)
 
 So what's bobbytables? its a reference to an xkcd comic called [The Exploits of a Mom.](https://xkcd.com/327/)
 
-image of exploits of a mom png
-!(exploits of a mom)(https://whoishou-media.s3.amazonaws.com/exploits_of_a_mom.png)
+
+![exploits of a mom](https://whoishou-media.s3.amazonaws.com/exploits_of_a_mom.png)
 
 Brilliant! Curiosity satiated!
 
