@@ -59,11 +59,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = "categories"
   [[menu.main]]
     weight = 3
-    identifier = "About"
+    identifier = "about"
     pre = ""
     post = ""
     name = "About"
-    url = "/About/"
+    url = "/about/"
     title = "about"
   
 [params]
