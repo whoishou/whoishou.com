@@ -89,7 +89,7 @@ I opened the text file and lo behold the mystery was unveiled.
 So what's bobbytables? its a reference to an xkcd comic called [The Exploits of a Mom.](https://xkcd.com/327/)
 
 image of exploits of a mom png
-{{< image src="/images/exploits_of_a_mom.png" caption="xkcd " >}}
+!(exploits of a mom)(https://whoishou-media.s3.amazonaws.com/exploits_of_a_mom.png)
 
 Brilliant! Curiosity satiated!
 
