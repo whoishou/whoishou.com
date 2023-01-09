@@ -349,7 +349,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  social share links in post page
     [params.page.share]
       enable = true
-      
+      Twitter = false
       Facebook = false
       Linkedin = true
       Whatsapp = true
