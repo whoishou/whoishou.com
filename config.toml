@@ -16,14 +16,14 @@ hasCJKLanguage = false
 # default amount of posts in each pages
 paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
-#googleAnalytics = ""
+googleAnalytics = ""
 # copyright description used only for seo schema
 copyright = ""
 
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 enableEmoji = true
 
@@ -59,18 +59,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = "categories"
   [[menu.main]]
     weight = 3
-    identifier = "about"
+    identifier = "About"
     pre = ""
     post = ""
     name = "About"
-    url = "/about/"
+    url = "/About/"
     title = "about"
   
 [params]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "github.com/whoishou/whoishou.com"
+  gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
