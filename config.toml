@@ -349,10 +349,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  social share links in post page
     [params.page.share]
       enable = true
-      Twitter = true
-      Facebook = true
-      Linkedin = false
-      Whatsapp = false
+      
+      Facebook = false
+      Linkedin = true
+      Whatsapp = true
       Pinterest = false
       Tumblr = false
       HackerNews = true
@@ -360,11 +360,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false
