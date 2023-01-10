@@ -3,6 +3,7 @@ title: "Decoding a string"
 date: 2018-12-26
 draft: false
 categories: [cyber]
+comments: true
 ---
 
 So I was recently browsing Seek which is an Australian job searching website. I was looking to see where the Industry is headed and what skills I should be focusing on developing for a career in Information Security.
