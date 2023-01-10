@@ -441,22 +441,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         label = ""
         lightTheme = "github-light"
         darkTheme = "github-dark"
-      # giscus comment config (https://giscus.app/)
+      
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = true        
+        enable = true
         repo = "whoishou/whoishou.com"
         repoId = "MDEwOlJlcG9zaXRvcnkxNzE4NzU3NDY="
         category = "Announcements"
         categoryId = "DIC_kwDOCj6dos4CTgUU"
         # automatically adapt the current theme i18n configuration when empty
         # 为空时自动适配当前主题 i18n 配置
-        lang = "en"
+        lang = ""
         mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
-        inputPosition = "bottom"
-        lazyLoading = true
+        inputPosition = "bottom" # top
+        lazyLoading = false
         lightTheme = "light"
         darkTheme = "dark"
 
