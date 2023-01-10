@@ -1,7 +1,14 @@
 baseURL = "https://whoishou.com"
 
+[module]
+
+  [[module.imports]]
+    path = "github.com/whoishou/LoveIt"
+    disable=false
+
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+#theme = "LoveIt"
+theme = ["https://github.com/whoishou/LoveIt"]
 
 # website title
 title = "who is hou"
