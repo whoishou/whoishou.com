@@ -61,7 +61,7 @@ PK can also refer to other file formats built on the ZIP format such as docx, ja
 
 So I saved the string as a ZIP file, opened the archive and lo and behold there lied the whatsinside.txt text file.
 
-![](/uploads/passwordneeded.png)
+![password needed](https://whoishou-media.s3.amazonaws.com/password_needed.png)
 
 ***
 
