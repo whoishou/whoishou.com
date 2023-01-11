@@ -6,6 +6,7 @@ categories: [cyber]
 comments: true
 featuredImage:
 ---
+# Decoding a string
 
 So I was recently browsing Seek which is an Australian job searching website. I was looking to see where the Industry is headed and what skills I should be focusing on developing for a career in Information Security.
 
@@ -77,21 +78,24 @@ If there are no hint to be found, then it has to be something simple or easily c
 
 Instead i opted for a ZIP file password remover i found online
 
-I uploaded the ZIP file and it turns out the password is… password
+I uploaded the ZIP file and it turns out the password is… 
 
-![Looks like this gif has since died.. sorry](https://media.giphy.com/media/hb8zof7ysyJna/giphy.gif)
+> ### password
+<br>
+
+![Door kick gif](https://assets.whoishou.com/door-kick.gif)
 
 Go figure.. I should have just guessed that to begin with..  
 (note to self, make a python script that'll brute force common passwords)
 
 I opened the text file and lo behold the mystery was unveiled.
 
-![whats inside](https://whoishou-media.s3.amazonaws.com/whats_inside.png)
+![whats inside](https://assets.whoishou.com/whats_inside.png)
 
 So what's bobbytables? its a reference to an xkcd comic called [The Exploits of a Mom.](https://xkcd.com/327/)
 
 
-![exploits of a mom](https://whoishou-media.s3.amazonaws.com/exploits_of_a_mom.png)
+![exploits of a mom](https://assets.whoishou.com/exploits_of_a_mom.png)
 
 Brilliant! Curiosity satiated!
 
