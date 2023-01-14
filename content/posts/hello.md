@@ -5,7 +5,6 @@ draft: false
 categories: [blog]
 tags: [test]
 featuredImage: "https://assets.whoishou.com/decode.png"
-lightgallery: true
 ---
 
 # Hello world
