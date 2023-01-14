@@ -5,7 +5,7 @@ draft: false
 categories: [blog]
 tags: [test]
 featuredImage: "https://assets.whoishou.com/decode.png"
-featuredImagePreview: "https://assets.whoishou.com/gear-bench.png"
+featuredImagePreview: "https://assets.whoishou.com/gear-bench.jpg"
 ---
 
 # Hello world
