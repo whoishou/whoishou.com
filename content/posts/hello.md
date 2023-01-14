@@ -4,7 +4,6 @@ date: 2022-12-20T10:08:15+02:00
 draft: false
 categories: [blog]
 tags: [test]
-featuredImage: "https://assets.whoishou.com/decode.png"
 featuredImagePreview: "https://assets.whoishou.com/gear-bench.jpg"
 ---
 
