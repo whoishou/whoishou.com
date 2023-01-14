@@ -1,9 +1,11 @@
 ---
 title: "Hello"
 date: 2022-12-20T10:08:15+02:00
-draft: true
+draft: false
 categories: [blog]
-tags: [scuba]
+tags: [test]
+featuredImage: "https://assets.whoishou.com/decode.png"
+lightgallery: true
 ---
 
 # Hello world
