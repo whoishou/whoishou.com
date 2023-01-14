@@ -4,7 +4,7 @@ date: 2018-12-26
 draft: false
 categories: [cyber]
 comments: true
-featuredImage: "https://assets.whoishou.com/decode.png"
+featuredImage: "https://assets.whoishou.com/decode1.png"
 ---
 
 So I was recently browsing Seek which is an Australian job searching website. I was looking to see where the Industry is headed and what skills I should be focusing on developing for a career in Information Security.
