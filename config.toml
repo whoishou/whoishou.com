@@ -77,9 +77,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "This is whoishou"
+  title = "Who is Hou"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "whoishou"
+  description = "Who is Hou"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Who Is Hou"
+      name = "Who is Hou"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -114,7 +114,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  whether to show the author
     author = false
     # Site creation time
-    #since = 2019
+    #since = 2018
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
@@ -141,7 +141,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "My cool site"
+    title = "Who is Hou"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -185,11 +185,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "https://whoishou-media.s3.amazonaws.com/profile.jpg"
+      avatarURL = "assets.whoishou.com/profile.jpg"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hello I am Houman. This website might be a little broken as I'm still working on it"
+      subtitle = "Hello I am Houman."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -352,11 +352,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Twitter = false
       Facebook = false
       Linkedin = true
-      Whatsapp = true
+      Whatsapp = false
       Pinterest = false
       Tumblr = false
       HackerNews = true
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
