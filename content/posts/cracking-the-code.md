@@ -25,7 +25,7 @@ Challenge Accepted
 
 If you want to give it a go yourself, pause here before reading on.
 
-## Decoding the string
+# Decoding the string
 
 At first glance, the string looked like it could be an encoded with Base64. The string is made up of the characters: a – z, A – Z, 0 -9, + and / which are used by Base64. Additionally, there is also some padding on the end of the string represented by the == which fulfills Base64’s length requirements. This [Wikipedia article](https://en.wikipedia.org/wiki/Base64) explains Base64 in more depth.
 
@@ -43,7 +43,7 @@ seemingly random characters, but on closer inspection we can see whatsinside.txt
 
 ***
 
-## File Signatures
+# File Signatures
 
 So what's inside the text file? I tried using a function called Magic in CyberChef, that attempts to automatically detect the properties of the data, but that provided no leads.
 
@@ -60,7 +60,7 @@ So I saved the string as a ZIP file, and there it was a ZIP archive with a text 
 
 ***
 
-## What's the password?
+# What's the password?
 
 It can't be too easy right? So what's the password? 
 Given that this came from a job listing, I didn’t have much to go off, I went over the job listing again, thinking that a clue might have been left somewhere in the content.

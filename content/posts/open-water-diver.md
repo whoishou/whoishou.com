@@ -6,9 +6,8 @@ categories: [Diving]
 tags: [Scuba Diving, Open Water, Advanced Open Water, Dive Certification, PADI]
 comments: true
 featuredImage: "https://assets.whoishou.com/feature-turtle.jpg"
-summary: this is a test summary
 ---
-Recently, I completed my PADI Open Water and Advanced Open Water certifications and it was an incredible experience. I have been wanting to learn how to scuba dive for a long time and finally, I made it happen.
+Recently, I completed my PADI Open Water and Advanced Open Water certifications, it was an incredible experience. I have been wanting to learn how to scuba dive for a long time and finally, I made it happen.
 
 The Open Water certification involved learning the basics of scuba diving, including how to use the equipment, dive planning, and basic dive skills. One of the challenging aspects of the course was learning how to clear water out of my mask and regulator while underwater. It was also a bit cold and windy during my Open Water dives, which made it a bit more challenging, but it was worth it in the end.
 

@@ -1,11 +1,11 @@
 ---
 title: "ChatGPT: The Language Model Revolutionizing Conversational AI"
 date: 2023-01-18
-draft: true
+draft: false
 categories: [Tech]
 tags: [ChatGPT, AI, OpenAi, NLP, Machine Learning, Conversational AI, Text Generation]
 comments: true
-featuredImage: "https://assets.whoishou.com/feature-ai-l.jpg"
+featuredImage: "https://assets.whoishou.com/feature-chatgpt.jpg"
 ---
 
 You might have heard about ChatGPT making the rounds on social media, I've been telling some of my colleagues about it and their first question is always, what is it?
@@ -38,6 +38,4 @@ In conclusion, ChatGPT is a powerful language model that has the potential to re
 I've been having a lot of fun testing ChatGPTs capabilities by providing it with different prompts, it's not perfect, but it's an amazing advancement, and I'm looking forward to seeing further advancements to AI in the coming decade.
 
 What has your experience been with ChatGPT? What kind of prompts have you given it?
-
-Comment below!
 
