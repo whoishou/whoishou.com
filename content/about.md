@@ -6,11 +6,13 @@ draft: false
 
 Hi, my name is Houman
 
-I’m a Network Engineer and tech enthusiast.
-I'm learning how to code in Python and increasing my knowledge of Cloud and Security technologies.
+I’m a Network Engineer and Tech enthusiast.
+I'm learning how to code in Python and enjoy learning about Cloud and Security Technologies.
 
-I’ll be writing things I'm learning about or working on, aswell as my other antics.
+I’ll be writing about what I'm working on and my other antics, feel free to have a read or even leave a comment.
 
-I am an avid Scuba Diver and enjoy being immersed in nature.
+I am an avid Scuba Diver and enjoy many outdoor activities.
 
-I’ve grown up in Melbourne, Australia and currently live abroad.
+I grew up in Melbourne, Australia, and currently I live abroad.
+
+Welcome
