@@ -1,6 +1,6 @@
 ---
 title: "WhoisHou 2.0: Rebuilding my website for 2023"
-date: 2023-02-10
+date: 2023-02-25
 draft: true
 categories: [Tech]
 tags: [Web Development, Hugo, Static Website, AWS, Netlify, Markdown, Git, Github, SSG]
