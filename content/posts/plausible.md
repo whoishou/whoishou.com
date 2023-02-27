@@ -5,7 +5,7 @@ draft: true
 categories: [Tech]
 tags: []
 comments: true
-featuredImage: "https://assets.whoishou.com/feature-template.jpg"
+# featuredImage: "https://assets.whoishou.com/feature-template.jpg"
 ---
 
-Create ECS
+Pending

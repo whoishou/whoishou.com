@@ -29,7 +29,7 @@ If you want to give it a go yourself, pause here before reading on.
 
 At first glance, the string looked like it could be an encoded with Base64. The string is made up of the characters: a – z, A – Z, 0 -9, + and / which are used by Base64. Additionally, there is also some padding on the end of the string represented by the == which fulfills Base64’s length requirements. This [Wikipedia article](https://en.wikipedia.org/wiki/Base64) explains Base64 in more depth.
 
-So lets decode it!
+So let's decode it!
 
 I like to use a tool called [Cyber Chef](https://gchq.github.io/CyberChef/), which is provided by the [Government Communications Headquarters (GCHQ)](https://www.gchq.gov.uk/) an intelligence and security organisation in the UK. It's a web app that has a number of different tools covering encryption, encoding, compression, data analysis, etc.
 
@@ -62,7 +62,7 @@ So I saved the string as a ZIP file, and there it was a ZIP archive with a text 
 
 ## What's the password?
 
-It can't be too easy right? So what's the password? 
+It can't be too easy right? So what's the password?
 Given that this came from a job listing, I didn’t have much to go off, I went over the job listing again, thinking that a clue might have been left somewhere in the content.
 I wasn't able to identify anything specifically, so I decided on a different approach.
 
@@ -70,10 +70,9 @@ If there are no hints to be found, then it has to be something simple or easily 
 
 Instead, I opted for a ZIP file password remover I found online
 
-I uploaded the ZIP file, and it turns out the password is… 
+I uploaded the ZIP file, and it turns out the password is…
 
 > password
-<br>
 
 ![Door kick gif](https://assets.whoishou.com/door-kick.gif)
 
@@ -84,7 +83,6 @@ I inputted the password and the text file opened!
 ![whats inside](https://assets.whoishou.com/whats_inside.png)
 
 So what's bobbytables? its a reference to an xkcd comic called [The Exploits of a Mom.](https://xkcd.com/327/)
-
 
 ![exploits of a mom](https://assets.whoishou.com/exploits_of_a_mom.png)
 
