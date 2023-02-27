@@ -89,7 +89,7 @@ On average with minimal testing, I found it to be about 25-30% faster.
 Excellent  
 ![Excellent](https://assets.whoishou.com/excellent.webp)
 
-### Custom CloudFront domain
+### Custom CloudFront Domain
 
 To make it easier when I am writing content, I wanted to use a custom domain name with CloudFront.
 
