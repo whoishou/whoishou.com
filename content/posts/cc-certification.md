@@ -1,13 +1,14 @@
 ---
 title: "Achieving ISC2's Certified in Cyber Security Certification"
 date: 2023-08-21
-draft: true
-categories: [blog]
-tags: [test]
-featuredImagePreview: "https://assets.whoishou.com/feature-template.jpg"
+draft: false
+categories: [Cyber]
+tags: [Cyber, CC, CISSP, Certification,Security Principles, Access Controls Concepts, Network Security, Security Operations]
+comments: true
+featuredImage: "https://assets.whoishou.com/cc-cert-banner.png"
 ---
 
-I am generally always learning something new, usually it's because I've picked up a new project like building a gas analyzer for scuba diving (post on this coming soon), other times its natural curiosity. This time my learning was focused on earning a specific certification.
+I am always learning something new, usually it's because I've picked up a new project like building a gas analyzer for scuba diving (post on this coming soon), other times its natural curiosity. This time my learning was focused on earning a specific certification.
 
 I recently undertook the ISC2 Certified in Cyber Security Certification (CC) exam.
 
