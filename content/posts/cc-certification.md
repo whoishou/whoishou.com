@@ -3,7 +3,7 @@ title: "Achieving ISC2's Certified in Cyber Security Certification"
 date: 2023-08-21
 draft: false
 categories: [Cyber]
-tags: [Cyber, CC, CISSP, Certification,Security Principles, Access Controls Concepts, Network Security, Security Operations]
+tags: [Cyber, CC, CISSP, Certification,Security Principles, Access Controls Concepts, Network Security,Security Operations]
 comments: true
 featuredImage: "https://assets.whoishou.com/cc-cert-banner.png"
 ---
@@ -34,7 +34,7 @@ I was sitting the exam out of Pearson Vue's professional centre in Tel Aviv.
 
 Despite a brief train delay, I arrived at the Pearson Vue testing center in Tel Aviv with ample time prior to my scheduled exam time.
 
-I provided them my ID and they gave me a locker to keep my belongings in, I also had to submit to a palm vein scan.
+I provided them my ID, they gave me a locker to keep my belongings in, and I had to submit to a palm vein scan.
 
 ISC2's website provides further details for exam-day and what you should take, so if you are planning to sit their certifications, have a read [here](https://www.isc2.org/exams/exam-day).
 
